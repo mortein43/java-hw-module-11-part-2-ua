@@ -1,0 +1,12 @@
+
+k	java:S106"+Replace this use of System.out by a logger.(“×·ôşÿÿÿÿJ$9a3bbe11-2da5-42ff-ad01-6fbbfcd64662
+k	java:S106,"+Replace this use of System.out by a logger.(ø©…¼ıÿÿÿÿJ$1b685da3-cae8-440b-b04a-9312ca2dba42
+k	java:S1061"+Replace this use of System.out by a logger.(å¤ã”ûÿÿÿÿJ$6182580a-5bb2-4c29-b9e8-cd65aa347c0f
+k	java:S1065"+Replace this use of System.out by a logger.(ã’ùÿÿÿÿJ$f4be18a2-d0fb-4d11-bfdc-fb94c1fe4e6a
+k	java:S1069"+Replace this use of System.out by a logger.(¹ÎğÏûÿÿÿÿJ$6cfe62c2-6f49-442d-8f95-9ccb1af1db65
+f	java:S106>"+Replace this use of System.out by a logger.(Ø°×J$d058e40c-64e9-4f61-b82e-d569cc783699
+f	java:S106C"+Replace this use of System.out by a logger.(˜¤ÀøJ$15d088e2-1667-4de3-b739-a71649662773
+
+java:S1612G"@Replace this lambda with method reference 'System.out::println'.(ª¿š‘øÿÿÿÿJ$57c2594b-32ec-4177-b99b-780769c3e12a
+k	java:S106G"+Replace this use of System.out by a logger.(ª¿š‘øÿÿÿÿJ$f71a3776-d312-4cc3-a9e9-4ea2ba18ee3d
+k	java:S106K"+Replace this use of System.out by a logger.(ãí™ûÿÿÿÿJ$036f163d-f3ae-42eb-b3df-720774e53270
